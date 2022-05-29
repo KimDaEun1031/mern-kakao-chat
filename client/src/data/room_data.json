@@ -1,0 +1,81 @@
+[
+  {
+    "room_id": "chatRoom01",
+    "users": {
+      "user_id": 7886
+    },
+    "chat": [
+      {
+        "user_id": 9953,
+        "content": "hello my name is..",
+        "timestamp": 1650239449000
+      },
+      {
+        "user_id": 7886,
+        "content": "lalalalala",
+        "timestamp": 1650239475000
+      },
+      {
+        "user_id": 9953,
+        "content": "kimdaeun",
+        "timestamp": 1650239676000
+      }
+    ]
+  },
+  {
+    "room_id": "chatRoom02",
+    "users": {
+      "user_id": 2153
+    },
+    "chat": [
+      {
+        "user_id": 2153,
+        "content": "두글자 끝말잇기 하자",
+        "timestamp": 1649914356000
+      },
+      {
+        "user_id": 2153,
+        "content": "악어",
+        "timestamp": 1649914370000
+      },
+      {
+        "user_id": 9953,
+        "content": "어장",
+        "timestamp": 1649914385000
+      },
+      {
+        "user_id": 2153,
+        "content": "장사",
+        "timestamp": 1649914411000
+      }
+    ]
+  },
+  {
+    "room_id": "chatRoom03",
+    "users": {
+      "user_id": 6185
+    },
+    "chat": [
+      {
+        "user_id": 9953,
+        "content": "뭐해?",
+        "timestamp": 1649596161000
+      },
+      {
+        "user_id": 6185,
+        "content": "잘거야",
+        "timestamp": 1649596478000
+      },
+      {
+        "user_id": 9953,
+        "content": "잘자",
+        "timestamp": 1649596545000
+      },
+      {
+        "user_id": 6185,
+        "content": "ㅂㅂ",
+        "timestamp": 1649596554000
+      }
+    ]
+  }
+]

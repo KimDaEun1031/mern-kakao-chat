@@ -1,0 +1,6 @@
+export const TOGGLE_SORT_BUTTON = "TOGGLE_SORT_BUTTON";
+export const TOGGLE_EXIT_BUTTON = "TOGGLE_EXIT_BUTTON";
+
+export const SHOW_CHAT = "SHOW_CHAT";
+export const SHOW_LIST = "SHOW_LIST";
+export const ADD_MESSAGE = "ADD_MESSAGE";
